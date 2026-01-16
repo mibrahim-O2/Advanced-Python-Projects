@@ -2,6 +2,25 @@
 
 A Python-based quiz application built using **Flask**, **JavaScript**, and **Bootstrap**.
 
+
+---
+
+## **Screenshot Preview**
+
+![Quiz App Screenshot](Screenshot%202026-01-16%20233051.png)
+
+> The image above shows the quiz interface with questions, options, and navigation buttons.
+
+---
+
+## **Setup & Run**
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/mibrahim-O2/Advanced-Python-Projects.git
+cd Advanced-Python-Projects/Python-WebApps/Quiz-App
+
 ## Features
 - 50 Python MCQ questions
 - 60-minute timer
