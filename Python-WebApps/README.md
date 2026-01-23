@@ -28,5 +28,5 @@ A **real-time face recognition web app** built with **Python, Flask, OpenCV, and
 - Frontend-backend integration for interactive apps
 - Project organization and version control with Git/GitHub
 
-**Explore the code and files here:** [click here](https://github.com/mibrahim-O2/Advanced-Python-Projects/edit/main/Python-WebApps/Face-Recognition-App/README.md)
+**Explore the code and files here:** [click here](https://github.com/mibrahim-O2/Advanced-Python-Projects/tree/main/Python-WebApps/Face-Recognition-App)
 ---
