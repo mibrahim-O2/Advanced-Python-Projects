@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Face Recognition App</title>
+    <style>
+        body {
+            text-align: center;
+            background-color: #222;
+            color: white;
+            font-family: Arial, sans-serif;
+        }
+        #video-frame {
+            width: 80vw;         /* 80% of browser width */
+            max-width: 1280px;   /* limit max size */
+            height: auto;        /* preserve aspect ratio */
+            border: 3px solid #0f0;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Face Recognition Camera</h1>
+    <img id="video-frame" src="{{ url_for('video') }}">
+</body>
+</html>
